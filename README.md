@@ -1,1 +1,2 @@
-# python-practice
+60 days of Python
+print("Hello World")
